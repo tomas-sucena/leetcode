@@ -15,7 +15,6 @@ public:
             return nullptr;
 
         int sum = (l1 ? l1->val : 0) + (l2 ? l2->val : 0) + carry;
-
         ListNode* res = new ListNode(sum % 10);
 
         l1 = l1 ? l1->next : nullptr;

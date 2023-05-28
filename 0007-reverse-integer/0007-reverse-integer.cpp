@@ -9,6 +9,7 @@ private:
 public:
     int reverse(int x) {
         int rev = 0;
+        
         for (; x; x /= 10) {
             if (overflow(rev, 10))
                 return 0;

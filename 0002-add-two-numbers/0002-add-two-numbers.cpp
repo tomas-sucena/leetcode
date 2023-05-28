@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2, bool carry = false) {
-        if (!l1 && !l2 && !carry)
-            return nullptr;
+        if (!l1 && !l2)
+            return carry ? new ListNode(carry) : nullptr;
 
         int sum = (l1 ? l1->val : 0) + (l2 ? l2->val : 0) + carry;
         ListNode* res = new ListNode(sum % 10);

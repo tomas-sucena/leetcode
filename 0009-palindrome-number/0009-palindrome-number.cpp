@@ -3,14 +3,12 @@ public:
     bool isPalindrome(int x) {
         if (x < 0) return false;
         
-        string normal, reverse;
-        for (; x > 0; x /= 10){
-            char c = char(x % 10);
-
-            normal += c;
-            reverse = c + reverse;
+        long rev = 0;
+        for (long i = x; i > 0; i /= 10){
+            rev *= 10;
+            rev += i % 10;
         }
-        
-        return (normal == reverse);
+              
+        return (x == rev);
     }
 };

@@ -14,9 +14,7 @@ public:
         if (!l1 && !l2 && !carry)
             return nullptr;
 
-        int val1 = l1 ? l1->val : 0;
-        int val2 = l2 ? l2->val : 0;
-        int sum = val1 + val2 + carry;
+        int sum = (l1 ? l1->val : 0) + (l2 ? l2->val : 0) + carry;
 
         ListNode* res = new ListNode(sum % 10);
 

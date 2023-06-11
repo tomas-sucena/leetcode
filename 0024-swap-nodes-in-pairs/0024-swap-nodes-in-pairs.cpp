@@ -11,16 +11,13 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        ListNode *first = head, *second = head ? head->next : nullptr;
+        ListNode *first = head;
 
-        while (second) {
-            int temp = first->val;
+        while (first && first->next) {
+            std::swap(first->val, first->next->val);
 
-            first->val = second->val;
-            second->val = temp;
-
-            second = second->next; first = second;
-            second = second ? second->next : nullptr;
+            first = first->next;
+            first = first ? first->next : nullptr;
         }
 
         return head;

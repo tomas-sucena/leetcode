@@ -1,18 +1,21 @@
 class SnapshotArray {
 private:
     int curr;
-    vector<unordered_map<int, int>> snapshots;
+    vector<vector<pair<int, int>>> snapshots;
 
 public:
     SnapshotArray(int length) : curr(0) {
-        snapshots.resize(length);
-
         for (int i = 0; i < length; ++i)
-            snapshots[i][curr] = 0;
+            snapshots.push_back({make_pair(curr, 0)});
     }
     
     void set(int index, int val) {
-        snapshots[index][curr] = val;
+        auto &el = snapshots[index];
+
+        if (el.back().first < curr)
+            el.emplace_back(curr, 0);
+
+        el.back().second = val;
     }
     
     int snap() {
@@ -21,15 +24,25 @@ public:
     
     int get(int index, int snap_id) {
         auto &el = snapshots[index];
+        
+        // special case
+        if (el.back().first <= snap_id)
+            return el.back().second;
+        
+        // binary search
+        int upper = (int) el.size() - 1;
+        int lower = 0;
+        
+        int middle = (upper + lower) / 2;
 
-        for (int i = snap_id; i >= 0; --i) {
-            auto it = el.find(i);
-            if (it == el.end()) continue;
-
-            return it->second;
+        for (; lower <= upper; middle = (upper + lower) / 2) {
+            if (el[middle].first <= snap_id)
+                lower = middle + 1;
+            else
+                upper = middle - 1;
         }
 
-        return 0;
+        return el[middle].second;
     }
 };
 

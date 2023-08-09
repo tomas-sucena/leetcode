@@ -23,13 +23,13 @@ public:
         // find the last occurrence
         upper = nums.size() - 1;
 
-        while (lower <= upper) {
+        while (nums[upper] > target) {
             int middle = (lower + upper) / 2;
 
             if (nums[middle] > target)
                 upper = middle - 1;
             else
-                lower = middle + 1; 
+                lower = middle + 1;
         }
 
         res[1] = upper;

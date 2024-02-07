@@ -1,44 +1,45 @@
 class Solution {
 public:
     int lengthLongestPath(string input) {
-        return getDepth(input.c_str(), {});
-    }
+        int res = 0;
+        std::vector<int> folders;
+        
+        for (auto it = input.begin(); it != input.end();) {
+            // count the tabs
+            int tabs = 0;
 
-    int getDepth(const char *s, std::vector<int> folders) {
-        // base case
-        if (*s == '\0') return 0;
+            while (*it == '\t') {
+                ++tabs;
+                ++it;
+            }
 
-        // count the tabs
-        int tabs = 0;
+            for (int i = folders.size(); i > tabs; --i)
+                folders.pop_back();
 
-        while (*s == '\t') {
-            ++tabs;
-            ++s;
-        }
+            // get the resource
+            string resource;
 
-        for (int i = folders.size(); i > tabs; --i)
-            folders.pop_back();
+            while (it != input.end() && *it != '\n')
+                resource += *it++;
 
-        // get the resource
-        string resource;
+            if (*it == '\n') ++it;
 
-        while (*s != '\0' && *s != '\n')
-            resource += *s++;
+            // verify if the resource is a file
+            if (resource.size() > 3 && resource.find('.') != std::string::npos) {
+                int pathSize = 0;
 
-        if (*s == '\n') ++s;
+                for (int i = 0; i < tabs; ++i)
+                    pathSize += folders[i];
 
-        // verify if the resource is a file
-        if (resource.size() > 3 && resource.find('.') != std::string::npos) {
-            int pathSize = 0;
-
-            for (int i = 0; i < tabs; ++i)
-                pathSize += folders[i];
+                pathSize += resource.size();            
+                res = std::max(res, pathSize);
+                
+                continue;
+            }
             
-            pathSize += resource.size();            
-            return std::max(pathSize, getDepth(s, folders));
+            folders.emplace_back(resource.size() + 1);
         }
-
-        folders.emplace_back(resource.size() + 1);
-        return getDepth(s, folders);
+        
+        return res;
     }
 };

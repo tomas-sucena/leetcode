@@ -24,7 +24,7 @@ public:
         int unique = 0;
 
         while (index < nums.size()) {
-            // search for the highest index where containing the current number
+            // search for the highest index containing the current number
             binarySearch(nums, index);
             nums[unique++] = nums[index++];
         }

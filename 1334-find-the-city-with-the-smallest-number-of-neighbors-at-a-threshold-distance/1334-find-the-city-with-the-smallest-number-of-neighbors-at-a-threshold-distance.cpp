@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
     int dijkstra(int node, int n, vector<int> &matrix, int distanceThreshold) {
         vector<bool> visitedCities(n, false);
 
@@ -64,6 +64,56 @@ public:
                 city = node;
                 minCities = visitedCities;
             }
+        }
+
+        return city;
+    }
+}*/
+
+class Solution {
+public:
+    /**
+     * An improved solution using Floyd-Warshall's algorithm.
+    */
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        // create the distance matrix
+        vector<vector<unsigned>> matrix(n, vector<unsigned>(n, INT_MAX));
+
+        for (auto &edge : edges) {
+            int from = edge[0];
+            int to = edge[1];
+            
+            matrix[from][to] = matrix[to][from] = edge[2];
+        }
+
+        // use the Floyd-Warshall algorithm to compute the distances
+        // between all pairs of cities
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = i + 1; j < n; j++) {
+                    matrix[i][j] = matrix[j][i] = std::min(matrix[i][j], matrix[i][k] + matrix[k][j]);
+                }
+            }
+        }
+
+        // find the city with the smallest number of neighbors
+        int city;
+        int minNeighbors = INT_MAX;
+
+        for (int i = 0; i < n; i++) {
+            int neighbors = 0;
+
+            // count the neighbors
+            for (unsigned dist : matrix[i]) {
+                neighbors += (dist <= distanceThreshold);
+            }
+
+            if (neighbors > minNeighbors) {
+                continue;
+            }
+
+            city = i;
+            minNeighbors = neighbors;
         }
 
         return city;

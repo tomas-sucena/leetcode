@@ -5,7 +5,7 @@ int strStr(char* haystack, char* needle) {
         char *haystack_ = haystack++;
         char *needle_ = needle;
 
-        while (*needle_ && *haystack_ && *needle_ == *haystack_) {
+        while (*haystack_ && *needle_ == *haystack_) {
             ++needle_; ++haystack_;
         }
 

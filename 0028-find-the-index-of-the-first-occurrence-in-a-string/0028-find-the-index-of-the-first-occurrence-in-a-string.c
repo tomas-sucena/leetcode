@@ -1,18 +1,24 @@
 int strStr(char* haystack, char* needle) {
-    int index = 0;
+    for (int index = 0; haystack[index]; ) {
+        int nextIndex = index;
+        _Bool advanceIndex = 1;
 
-    for (; *haystack; ++index) {
-        char *haystack_ = haystack++;
-        char *needle_ = needle;
+        // attempt to find a match
+        const char *needle_ = needle;
 
-        while (*haystack_ && *needle_ == *haystack_) {
-            ++needle_; ++haystack_;
+        for (int i = index; haystack[i] && *needle_ == haystack[i]; ++i) {
+            ++needle_;
+
+            nextIndex += advanceIndex;
+            advanceIndex &= (haystack[i] != *needle);
         }
 
         // verify if a match was found
         if (*needle_ == '\0') {
             return index;
         }
+
+        index = nextIndex + (nextIndex == index);
     }
 
     return -1;

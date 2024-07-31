@@ -33,9 +33,7 @@ int maxSubArray(int* nums, int numsSize) {
                 max = MAX(sum, max);
 
                 break;
-        }
-
-        
+        }        
     }
 
     return max;

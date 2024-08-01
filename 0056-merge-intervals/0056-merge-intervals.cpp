@@ -2,13 +2,13 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> ans;
-        auto it = intervals.begin();
 
         // sort the intervals by their start time
         sort(intervals.begin(), intervals.end(),
-            [](const vector<int> &lhs, const vector<int> &rhs) { return lhs[0] < rhs[0]; } );
+            [](vector<int> &lhs. vector<int> &rhs) { return lhs.front() < rhs.front(); } );
 
         // push the first interval
+        auto it = intervals.begin();
         ans.emplace_back(*it); 
 
         for (; it != intervals.end(); ++it) {

@@ -4,6 +4,10 @@ public:
         vector<vector<int>> ans;
         auto it = intervals.begin();
 
+        // sort the intervals by their start time
+        sort(intervals.begin(), intervals.end(),
+            [](const vector<int> &lhs, const vector<int> &rhs) { return lhs[0] < rhs[0]; } );
+
         // push the first interval
         ans.emplace_back(*it); 
 

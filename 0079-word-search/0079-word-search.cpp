@@ -70,6 +70,13 @@ public:
             }
         }
 
+        // ensure each character of the string appears in the board
+        for (char c : word) {
+            if (chars[c] == 0) {
+                return false;
+            }
+        }
+
         // determine if it is more advantageous to begin searching
         // for the last character
         if (chars[word.back()] < chars[word.front()]) {

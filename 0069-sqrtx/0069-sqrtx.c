@@ -5,10 +5,7 @@ int mySqrt(int x) {
         int middle = 1 + (left + right) / 2;
         int sqrt = x / middle;
 
-        if (sqrt == middle) {
-            return middle;
-        }
-        else if (sqrt < middle) {
+        if (sqrt < middle) {
             right = middle - 1;
         }
         else {

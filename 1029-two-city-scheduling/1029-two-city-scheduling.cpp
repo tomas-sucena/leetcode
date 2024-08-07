@@ -1,7 +1,7 @@
 class Solution {
 public:
     int twoCitySchedCost(vector<vector<int>>& costs) {
-        // sort the costs such that the people with a cheap flights
+        // sort the costs such that the people with cheap flights
         // to city A but expensive flights to city B come first
         sort(costs.begin(), costs.end(),
             [](vector<int> &lhs, vector<int> &rhs) {

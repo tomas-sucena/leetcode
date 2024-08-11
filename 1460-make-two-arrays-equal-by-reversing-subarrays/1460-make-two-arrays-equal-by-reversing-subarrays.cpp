@@ -15,11 +15,11 @@ public:
             if (it == nums.end()) {
                 return false;
             }
-            else if (--it->second == 0) {
-                nums.erase(it);
-            }
+
+            --it->second;
         }
 
-        return nums.empty();
+        return std::none_of(nums.begin(), nums.end(),
+            [](const auto &p) { return p.second > 0; });
     }
 };

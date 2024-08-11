@@ -7,8 +7,8 @@ public:
             ++nums[i];
         }
 
-        // verify if every 'arr' has the same elements
-        // as 'target', irrespective of their order
+        // verify if 'arr' has the same elements as 'target',
+        // irrespective of the order they appear in
         for (int i : arr) {
             auto it = nums.find(i);
 

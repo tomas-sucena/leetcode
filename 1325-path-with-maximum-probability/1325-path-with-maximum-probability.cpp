@@ -34,8 +34,6 @@ public:
             auto curr = pq.top();
             pq.pop();
 
-            // std::cout << curr.first << ' ' << curr.second << endl;
-
             // verify if we have reached the destination
             if (curr.first == end_node) {
                 return curr.second;

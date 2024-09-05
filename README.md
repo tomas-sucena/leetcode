@@ -26,6 +26,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
@@ -54,5 +56,6 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Math
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

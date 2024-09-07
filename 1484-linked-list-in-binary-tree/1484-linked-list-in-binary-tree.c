@@ -16,6 +16,14 @@ bool isValidPath(struct ListNode *head, struct TreeNode *root) {
  *     struct ListNode *next;
  * };
  */
+ /**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
 bool isSubPath(struct ListNode* head, struct TreeNode* root) {
     if (root == NULL) {
         return false;

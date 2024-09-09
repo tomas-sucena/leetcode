@@ -62,6 +62,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +86,8 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -88,6 +89,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |

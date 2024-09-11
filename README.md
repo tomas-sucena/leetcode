@@ -109,4 +109,8 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/tomas-sucena/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

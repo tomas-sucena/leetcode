@@ -5,8 +5,8 @@ int minBitFlips(int start, int goal) {
     // count the 1 bits
     int ans = 0;
 
-    for (unsigned mask = (unsigned) 1 << 31; mask; mask >>= 1) {
-        ans += !!(start & mask);
+    for (; start; start >>= 1) {
+        ans += !!(start & 1);
     }
 
     return ans;

@@ -28,6 +28,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -118,6 +119,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 ## Greedy
 |  |
@@ -142,6 +144,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Counting
 |  |

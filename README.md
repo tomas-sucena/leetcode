@@ -29,6 +29,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -115,6 +116,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
+| [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |

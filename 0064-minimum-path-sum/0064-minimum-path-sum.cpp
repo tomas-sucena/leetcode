@@ -15,9 +15,6 @@ public:
     int minPathSum(vector<vector<int>>& grid) {
         uint8_t m = grid.size(), n = grid[0].size();
 
-        // set all cells as unvisited
-        vector<vector<bool>> unvisited(m, vector<bool>(n, true));
-
         // initialize the min-heap
         priority_queue<Point> pq;
         pq.push(Point(--m, --n, grid[m][n]));
@@ -32,22 +29,22 @@ public:
             }
 
             // push the adjacent cells to the priority queue
-            if (curr.row && unvisited[curr.row - 1][curr.col]) {
-                int row = curr.row - 1, col = curr.col;
+            int row = curr.row - 1, col = curr.col;
 
+            if (curr.row && grid[row][col] >= 0) {
                 pq.push(Point(row, col, curr.value + grid[row][col]));
-                unvisited[row][col] = false; // set the current cell as visited
+                grid[row][col] = -1; // set the current cell as visited
             }
 
-            if (curr.col && unvisited[curr.row][curr.col - 1]) {
-                int row = curr.row, col = curr.col - 1;
-            
+            row = curr.row, col = curr.col - 1;
+
+            if (curr.col && grid[row][col] >= 0) {            
                 pq.push(Point(row, col, curr.value + grid[row][col]));
-                unvisited[row][col] = false; // set the current cell as visited
+                grid[row][col] = -1; // set the current cell as visited
             }
         }
 
         // in theory, this return statement should never be reached
-        return -1;
+        return INT_MAX;
     }
 };

@@ -78,6 +78,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
@@ -99,6 +100,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |

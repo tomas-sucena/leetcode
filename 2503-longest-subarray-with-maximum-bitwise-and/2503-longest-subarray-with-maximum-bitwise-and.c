@@ -5,12 +5,6 @@ int longestSubarray(int* nums, int numsSize) {
 
     for (int i = 0; i < numsSize; ) {
         int curr = nums[i++];
-                
-        // if the current number is lower than the current
-        // maximum bitwise AND, ignore it
-        if (curr < maxNum) {
-            continue;
-        }
 
         // compute the length of the subarray
         int length = 1;
@@ -23,9 +17,9 @@ int longestSubarray(int* nums, int numsSize) {
             maxLength = length;
             maxNum = curr;
         }
-        else {
+        else if (curr == maxNum) {
             maxLength = MAX(length, maxLength);
-        }     
+        }
     }
 
     return maxLength;

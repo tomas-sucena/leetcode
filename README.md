@@ -12,16 +12,19 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
@@ -81,6 +84,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
@@ -91,6 +95,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |

@@ -13,10 +13,14 @@ int longestSubarray(int* nums, int numsSize) {
             ++length;
         }
 
+        // if the current number is greater than the maximum,
+        // unconditionally replace the maximum length
         if (curr > maxNum) {
             maxLength = length;
             maxNum = curr;
         }
+        // if the current number is equal to the maximum,
+        // update the maximum length only if the current length is greater than it
         else if (curr == maxNum) {
             maxLength = MAX(length, maxLength);
         }

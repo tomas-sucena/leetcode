@@ -40,6 +40,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -50,6 +51,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -66,6 +68,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
+| [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +161,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -166,4 +170,8 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->

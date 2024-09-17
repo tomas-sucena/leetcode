@@ -121,6 +121,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/tomas-sucena/leetcode/tree/master/0520-detect-capital) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/tomas-sucena/leetcode/tree/master/3567-convert-date-to-binary) |

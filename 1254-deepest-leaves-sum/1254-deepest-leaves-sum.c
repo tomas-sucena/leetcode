@@ -11,11 +11,14 @@ void postorderDFS(struct TreeNode *node, int *sum, int level, int *maxLevel) {
         return;
     }
 
+    // if the current level is higher than the maximum level,
+    // update the maximum level and reset the sum
     if (level > *maxLevel) {
         *maxLevel = level;
         *sum = 0;
     }
-    
+
+    // update the sum
     *sum += node->val;
 }
 

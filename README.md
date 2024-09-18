@@ -40,6 +40,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -66,6 +67,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |

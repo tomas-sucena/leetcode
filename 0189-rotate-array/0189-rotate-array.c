@@ -1,18 +1,20 @@
 void rotate(int* nums, int numsSize, int k) {
-    int *temp = malloc(numsSize * sizeof(int));
+    // compute the minimum number of shifts required
     k %= numsSize;
 
-    // iterate through the original array and place the elements
-    // in their respective places in the rotated array
-    int index = numsSize - k;
+    if (k == 0) {
+        return;
+    }
+    
+    // save the last k elements
+    int k_ = numsSize - k, cache[k %= numsSize];
+    memcpy(cache, nums + k_, k * sizeof(int));
 
-    for (int i = 0; i < numsSize; ++i) {
-        temp[i] = nums[index++ % numsSize];
+    // shift the array k steps to the right
+    for (int i = 0; i < k_;) {
+        nums[--numsSize] = nums[k_ - ++i];
     }
 
-    // switch the original array with the rotated array
-    memcpy(nums, temp, numsSize * sizeof(int));
-
-    // free the temporary array
-    free(temp);
+    // place the original last k elements in the beginning
+    memcpy(nums, cache, k * sizeof(int));
 }

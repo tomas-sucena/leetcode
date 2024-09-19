@@ -12,6 +12,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -20,6 +21,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -28,6 +30,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -184,4 +187,8 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

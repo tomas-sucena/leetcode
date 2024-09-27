@@ -5,11 +5,9 @@ char repeatedCharacter(char* s) {
         char c = *s, index = c - 'a';
 
         // verify if the current letter has already appeared
-        if (letters[index]) {
+        if (letters[index]++) {
             return c;
         }
-
-        ++letters[index];
     }
 
     // this will not be reached

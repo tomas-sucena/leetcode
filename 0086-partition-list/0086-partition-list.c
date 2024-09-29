@@ -6,40 +6,39 @@
  * };
  */
 struct ListNode* partition(struct ListNode* head, int x) {
-    if (head == NULL) {
-        return NULL;
-    }
-    
     // initialize the linked list
-    struct ListNode *head_ = malloc(sizeof(struct ListNode)), *curr_ = NULL;
+    struct ListNode *head_ = NULL, *currHead_ = NULL;
+    struct ListNode *tail_ = NULL, *currTail_ = NULL;
 
-    // append all values less than x
-    for (struct ListNode *curr = head; curr; curr = curr->next) {  
-        if (curr->val < x) {
-            curr_ = curr_
-                ? curr_->next
-                : head_;
-            
-            curr_->val = curr->val;
-            curr_->next = malloc(sizeof(struct ListNode));            
-        }
-    }
-
-    // append all other values
+    // fill the linked lists
     for (struct ListNode *curr = head; curr; curr = curr->next) {
-        if (curr->val >= x) {
-            curr_ = curr_
-                ? curr_->next
-                : head_;
+        if (curr->val < x) {
+            currHead_ = head_
+                ? (currHead_->next = malloc(sizeof(struct ListNode)))
+                : (head_ = malloc(sizeof(struct ListNode)));
             
-            curr_->val = curr->val;
-            curr_->next = malloc(sizeof(struct ListNode));            
+            currHead_->val = curr->val;
+        }
+        else {
+            currTail_ = tail_
+                ? (currTail_->next = malloc(sizeof(struct ListNode)))
+                : (tail_ = malloc(sizeof(struct ListNode)));
+            
+            currTail_->val = curr->val;
         }
     }
 
-    // free the unused allocated memory
-    free(curr_->next);
-    curr_->next = NULL;
+    // combine the linked lists
+    if (currHead_) {
+        currHead_->next = tail_;
+    }
+    else {
+        head_ = tail_;
+    }
+
+    if (currTail_) {
+        currTail_->next = NULL;
+    }
 
     return head_;
 }

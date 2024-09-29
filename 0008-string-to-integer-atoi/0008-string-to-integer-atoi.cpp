@@ -23,19 +23,14 @@ public:
 
         // read digits
         for (; it != s.end() && *it >= '0' && *it <= '9'; ++it) {
-           n = n * 10 + (*it - '0');
+            n = n * 10 + (*it - '0');
 
             // verify if clamping is necessary
-            switch (negative) {
-                case true:
-                    if (n - 1 >= INT_MAX)
-                        return INT_MIN;
-                    
-                    break;
-
-                case false:
-                    if (n >= INT_MAX)
-                        return INT_MAX;
+            if (negative && n - 1 >= INT_MAX) {
+                return INT_MIN;
+            }
+            else if (n >= INT_MAX) {
+                return INT_MAX;
             }
         }
 

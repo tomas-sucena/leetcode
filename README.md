@@ -111,6 +111,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/tomas-sucena/leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -142,6 +143,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | ------- |
 | [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/tomas-sucena/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |

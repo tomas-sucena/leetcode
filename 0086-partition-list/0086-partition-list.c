@@ -6,8 +6,10 @@
  * };
  */
 struct ListNode* partition(struct ListNode* head, int x) {
-    // initialize the linked list
+    // initialize a linked list for the values less than x
     struct ListNode *head_ = NULL, *currHead_ = NULL;
+
+    // initialize a linked list for the remaining values
     struct ListNode *tail_ = NULL, *currTail_ = NULL;
 
     // fill the linked lists

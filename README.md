@@ -12,6 +12,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tomas-sucena/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -21,6 +22,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tomas-sucena/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -30,6 +32,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tomas-sucena/leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -117,6 +120,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tomas-sucena/leetcode/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |

@@ -1,3 +1,5 @@
+#define FREE_ENTRY INT_MIN
+
 /**
  * @brief A hash set.
  * @param values an array for storing the values of the hash set
@@ -15,16 +17,16 @@ void initHashSet(MyHashSet *obj, int size) {
     obj->values = malloc(size * sizeof(int));
     obj->size = size; obj->length = 0;
 
-    // clear the memory
+    // mark all entries as free
     for (int i = 0; i < size; ++i) {
-        obj->values[i] = INT_MIN;
+        obj->values[i] = FREE_ENTRY;
     }
 }
 
 void addToHashSet(MyHashSet *obj, int key) {
     int hash = key % obj->size;
 
-    while (obj->values[hash] > INT_MIN) {
+    while (obj->values[hash] != FREE_ENTRY) {
         // if the element is already in the hash set, do nothing
         if (obj->values[hash] == key) {
             return;
@@ -75,7 +77,7 @@ void myHashSetAdd(MyHashSet* obj, int key) {
 void myHashSetRemove(MyHashSet* obj, int key) {
     int hash = key % obj->size;
 
-    while (obj->values[hash] > INT_MIN) {
+    while (obj->values[hash] != FREE_ENTRY) {
         // if the element is in the hash set,
         // mark its entry as a tombstone
         if (obj->values[hash] == key) {
@@ -93,7 +95,7 @@ void myHashSetRemove(MyHashSet* obj, int key) {
 bool myHashSetContains(MyHashSet* obj, int key) {
     int hash = key % obj->size;
 
-    while (obj->values[hash] > INT_MIN) {
+    while (obj->values[hash] != FREE_ENTRY) {
         // if the element is in the hash set, return true
         if (obj->values[hash] == key) {
             return true;

@@ -66,7 +66,7 @@ void myHashSetAdd(MyHashSet* obj, int key) {
         copyHashSet(obj, newObj);
 
         // switch the hash set for the new one
-        memcpy(obj, newObj, sizeof(MyHashSet));
+        *obj = *newObj;
         free(newObj);
     }
 

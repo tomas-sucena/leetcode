@@ -1,6 +1,9 @@
-
-
-
+/**
+ * @brief A stack.
+ * @param nums an array for storing the elements of the stack
+ * @param size the current number of elements that are stored on the stack
+ * @param maxSize the maximum number of elements that can be stored on the stack
+ */
 typedef struct {
     int *nums;
     int size, maxSize;
@@ -17,12 +20,14 @@ CustomStack* customStackCreate(int maxSize) {
     return obj;
 }
 
+// O(1)
 void customStackPush(CustomStack* obj, int x) {
     if (obj->size < obj->maxSize) {
         obj->nums[obj->size++] = x;
     }
 }
 
+// O(1)
 int customStackPop(CustomStack* obj) {
     // verify if the stack is empty
     if (obj->size == 0) {
@@ -32,11 +37,13 @@ int customStackPop(CustomStack* obj) {
     return obj->nums[--obj->size];
 }
 
+// O(k)
 void customStackIncrement(CustomStack* obj, int k, int val) {
     k = (k < obj->size)
         ? k
         : obj->size;
 
+    // increment the bottom k elements
     for (int i = 0; i < k; ++i) {
         obj->nums[i] += val;
     }

@@ -9,6 +9,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
@@ -229,6 +231,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |

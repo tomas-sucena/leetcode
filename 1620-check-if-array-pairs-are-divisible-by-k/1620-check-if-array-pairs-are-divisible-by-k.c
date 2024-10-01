@@ -19,16 +19,18 @@ bool canArrange(int* arr, int arrSize, int k) {
     // sort the array
     qsort(arr, arrSize, sizeof(int), lessThan);
 
-    // ensure the number of 0s is even
+    // count the number of 0s
     int left = 0;
-
+    
     for (; left < arrSize && arr[left] == 0; ++left);
 
+    // ensure the number of 0s is even
     if (left % 2) {
         return false;
     }
 
-    // ensure all values have a pair
+    // ensure that, for all numbers, there exists another
+    // number such that their sum equals k
     int right = arrSize;
 
     while (left < right) {

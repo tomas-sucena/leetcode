@@ -19,14 +19,6 @@ bool canArrange(int* arr, int arrSize, int k) {
     // sort the array
     qsort(arr, arrSize, sizeof(int), lessThan);
 
-    printf("[");
-    for (int i = 0; i < arrSize; ++i) {
-        printf(" %d ", arr[i]);
-    }
-    printf("]\n");
-
-    // ensure all negative numbers can 
-
     // ensure the number of 0s is even
     int left = 0;
 

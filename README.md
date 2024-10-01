@@ -59,6 +59,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
@@ -142,6 +143,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -210,6 +212,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Brainteaser

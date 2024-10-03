@@ -8,6 +8,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/tomas-sucena/leetcode/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
@@ -168,6 +169,7 @@ This repository, which was created using [LeetHub](https://github.com/QasimWani/
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/tomas-sucena/leetcode/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/tomas-sucena/leetcode/tree/master/0520-detect-capital) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |

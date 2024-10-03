@@ -26,15 +26,17 @@ void pushStack(struct Stack *stack, char *path, unsigned pathLength) {
     stack->pathLengths[stack->length++] = pathLength;
 }
 
-char *popStack(struct Stack *stack) {
-    return stack->length
-        ? stack->paths[--stack->length]
-        : NULL;
+void popStack(struct Stack *stack) {
+    // if the stack is not empty,
+    // reduce its length
+    if (stack->length) {
+        --stack->length;
+    }
 }
 
 char* simplifyPath(char* path) {
     // initialize the stack
-    struct Stack *stack = initStack(1);
+    struct Stack *stack = initStack(8);
 
     for (;;) {
         // skip slashes
@@ -46,10 +48,12 @@ char* simplifyPath(char* path) {
         }
 
         // read the next subpath
-        unsigned length = 0;
-        for (; path[length] && path[length] != '/'; ++length);
+        char *curr = path;
+        for (; *curr && *curr != '/'; ++curr);
 
         // verify if the subpath is '..'
+        unsigned length = curr - path;
+
         if (length == 2 && *path == '.' && path[1] == '.') {
             // pop the last path
             popStack(stack);
@@ -64,28 +68,25 @@ char* simplifyPath(char* path) {
             pushStack(stack, subpath, length);
         }
 
-        path += length;
+        path = curr;
     }
 
     // create the simplified path
-    if (stack->length == 0) {
-        return "/";
-    }
-
     char *ans = malloc(3000 * sizeof(char)), *temp = ans;
-    *temp = '/';
 
     for (int i = 0; i < stack->length; ++i) {
         unsigned pathLength = stack->pathLengths[i];
 
         // concatenate the subpath to the simplified path
-        memcpy(++temp, stack->paths[i], pathLength);
+        memcpy(++temp, stack->paths[i], pathLength * sizeof(char));
 
         // add a trailing slash
         temp += pathLength;
         *temp = '/';
     }
 
-    *temp = '\0';
+    *ans = '/';
+    temp[temp == ans] = '\0';
+    
     return ans;
 }

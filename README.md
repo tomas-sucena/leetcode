@@ -71,6 +71,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -157,6 +158,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
@@ -240,6 +243,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Backtracking
 |  |

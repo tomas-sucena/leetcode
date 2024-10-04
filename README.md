@@ -133,6 +133,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/tomas-sucena/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/tomas-sucena/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tomas-sucena/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -257,6 +258,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/tomas-sucena/leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue

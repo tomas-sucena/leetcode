@@ -183,6 +183,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2580-circular-sentence](https://github.com/tomas-sucena/leetcode/tree/master/2580-circular-sentence) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/tomas-sucena/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Number Theory

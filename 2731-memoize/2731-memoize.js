@@ -29,6 +29,16 @@ function memoize(fn) {
     }
 }
 
+// a simpler but slower solution
+/* function memoize(fn) {
+    // initialize the cache
+    const cache = {};
+    return function(...args) {
+        // fetch the cache entry
+        return cache[args] ??= fn(...args);
+    }
+} */
+
 
 /** 
  * let callCount = 0;

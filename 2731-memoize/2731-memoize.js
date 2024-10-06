@@ -4,11 +4,28 @@
  */
 function memoize(fn) {
     // initialize the cache
-    const cache = {};
+    const cache = new Map();
 
     return function(...args) {
+        // fetch the arguments
+        const [a, b] = args;
+
+        // compute the key
+        // NOTE: 17 is the number of bits of 10^5
+        const key = (b << 17) | a;
+
         // fetch the cache entry
-        return cache[args] ??= fn(...args);
+        let entry = cache.get(key);
+
+        // verify if the cache entry exists
+        if (entry === undefined) {
+            // if the entry doesn't exist,
+            // compute it and store it in the cache
+            entry = fn(...args);
+            cache.set(key, entry);
+        }
+
+        return entry;
     }
 }
 

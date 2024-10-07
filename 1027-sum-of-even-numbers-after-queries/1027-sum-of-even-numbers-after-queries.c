@@ -15,19 +15,20 @@ int* sumEvenAfterQueries(int* nums, int numsSize, int** queries, int queriesSize
 
     // apply the queries and compute
     for (int i = 0; i < queriesSize; ++i) {
-        int *query = queries[i];
-        int *num = nums + query[1]; // pointer to the affected number
+        int *query = queries[i],       // pointer to the query 
+            *numPtr = nums + query[1], // pointer to the affected number
+            num = *numPtr;             // the affected number 
 
         // if the number is even, remove it from the sum
-        if (*num % 2 == 0) {
-            sum -= *num;
+        if (num % 2 == 0) {
+            sum -= num;
         }
 
         // update the number
-        *num += query[0];
+        *numPtr = (num += query[0]);
 
         // if the updated number is even, add it to the sum
-        sum += *num * (*num % 2 == 0);
+        sum += num * (num % 2 == 0);
 
         // update the answer
         ans[i] = sum;

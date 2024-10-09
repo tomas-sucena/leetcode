@@ -56,6 +56,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -214,6 +215,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tomas-sucena/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/tomas-sucena/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -260,6 +262,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |

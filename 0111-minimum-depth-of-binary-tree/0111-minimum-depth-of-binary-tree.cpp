@@ -20,26 +20,25 @@ public:
         queue<pair<int, TreeNode*>> queue;
         queue.emplace(1, root);
 
-        // perform Breadth-First Search until a null node is found
-        while (!queue.empty()) {
+        // perform Breadth-First Search until a leaf node is found
+        for (; !queue.empty(); queue.pop()) {
             auto top = queue.front();
-            queue.pop();
 
             int depth = top.first;
             TreeNode *node = top.second;
 
-            if (node == nullptr) {
-                continue;
-            }
-
             // determine if the current node is a leaf node
+            // if so, return its depth
             if (node->left == nullptr && node->right == nullptr) {
                 return depth;
             }
 
+            // update the depth
+            ++depth;
+
             // push the node's children to the queue
-            queue.emplace(++depth, node->left);
-            queue.emplace(depth, node->right);
+            if (node->left) queue.emplace(depth, node->left);
+            if (node->right) queue.emplace(depth, node->right);
         }
 
         // should not be reached

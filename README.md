@@ -191,6 +191,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2580-circular-sentence](https://github.com/tomas-sucena/leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tomas-sucena/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/tomas-sucena/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Number Theory
@@ -221,6 +223,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |

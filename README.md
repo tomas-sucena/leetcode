@@ -74,6 +74,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/tomas-sucena/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -133,6 +134,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0029-divide-two-integers](https://github.com/tomas-sucena/leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/tomas-sucena/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
@@ -217,6 +219,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tomas-sucena/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
@@ -308,4 +311,8 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -91,6 +91,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -183,6 +184,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -269,6 +271,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
 ## Brainteaser
 |  |
 | ------- |

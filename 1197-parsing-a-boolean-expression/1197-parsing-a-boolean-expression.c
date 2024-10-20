@@ -1,70 +1,67 @@
-const char *recursiveDescent(const char *expression, bool *ans, bool isSet) {
-    switch (*expression++) {
+bool recursiveDescent(const char **expressionPtr) {
+    const char *expr = *expressionPtr;
+    bool value;
+
+    switch (*expr++) {
         case 't':
-            *ans = true;
+            value = true;
             break;
 
         case 'f':
-            *ans = false;
+            value = false;
             break;
 
         case '!':
-            expression = recursiveDescent(++expression, ans, isSet);
-            *ans ^= 1;
+            // skip the opening parenthesis
+            ++expr;
 
-            ++expression; // skip the closing parenthesis
+            // compute the value of the subexpression
+            value = !recursiveDescent(&expr);
+
+            // skip the closing parenthesis
+            ++expr;
             break;
 
-        case '&': {
-            bool subExpr = true;
-            
-            // parse the operands
+        case '&':
+            // compute the value of the subexpression
+            value = true;
+
             do {
-                bool operand;
-                expression = recursiveDescent(++expression, &operand, isSet);
+                // skip the opening parenthesis or comma
+                ++expr;
 
-                subExpr &= operand;
+                // compute the value of the subexpression's operand
+                value &= recursiveDescent(&expr);
             }
-            while (*expression == ',');
+            while (*expr == ',');
             
-            // update the answer
-            *ans = isSet
-                ? *ans & subExpr
-                : subExpr;
-            
-            ++expression; // skip the closing parenthesis
+            // skip the closing parenthesis      
+            ++expr;
             break;
-        }
 
         case '|': {
-            bool subExpr = false;
-            
-            // parse the operands
+            // compute the value of the subexpression
+            value = false;
+
             do {
-                bool operand;
-                expression = recursiveDescent(++expression, &operand, isSet);
+                // skip the opening parenthesis or comma
+                ++expr;
 
-                subExpr |= operand;
+                // compute the value of the subexpression's operand
+                value |= recursiveDescent(&expr);
             }
-            while (*expression == ',');
-
-            // update the answer
-            *ans = isSet
-                ? *ans | subExpr
-                : subExpr;
-
-            ++expression; // skip the closing parenthesis
+            while (*expr == ',');
+            
+            // skip the closing parenthesis      
+            ++expr;
             break;
         }
     }
 
-    isSet = true;
-    return expression;
+    *expressionPtr = expr;
+    return value;
 }
 
 bool parseBoolExpr(char* expression) {
-    bool ans;
-    recursiveDescent(expression, &ans, false);
-
-    return ans;
+    return recursiveDescent(&expression);
 }

@@ -76,6 +76,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/tomas-sucena/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -112,6 +113,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -265,6 +267,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0059-spiral-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Counting
 |  |
@@ -297,6 +300,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
 | ------- |

@@ -44,6 +44,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/tomas-sucena/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -80,6 +81,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
@@ -177,6 +179,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0104-maximum-depth-of-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
@@ -273,6 +276,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0059-spiral-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Counting
@@ -341,4 +345,8 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tomas-sucena/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tomas-sucena/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

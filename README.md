@@ -72,6 +72,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0054-spiral-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/tomas-sucena/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tomas-sucena/leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/tomas-sucena/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |

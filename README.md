@@ -237,6 +237,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2580-circular-sentence](https://github.com/tomas-sucena/leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tomas-sucena/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/tomas-sucena/leetcode/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/tomas-sucena/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Number Theory

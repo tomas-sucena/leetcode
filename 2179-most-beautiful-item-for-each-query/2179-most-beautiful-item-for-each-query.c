@@ -1,8 +1,12 @@
+#define PRICE  0
+#define BEAUTY 1
+
 int comparator(const void *a, const void *b) {
+    // fetch the items
     int *itemA = *((int **) a), *itemB = *((int **) b);
 
     // compare the items by price
-    return itemA[0] - itemB[0];
+    return itemA[PRICE] - itemB[PRICE];
 }
 
 /**
@@ -12,18 +16,18 @@ int* maximumBeauty(int** items, int itemsSize, int* itemsColSize, int* queries, 
     // sort the items by price
     qsort(items, itemsSize, sizeof(int*), comparator);
 
-    // determine the most beatiful item for
-    // each price
+    // determine, for each item, the most beautiful
+    // item that isn't more expensive
     int maxBeauty = -1;
 
     for (int i = 0; i < itemsSize; ++i) {
-        int beauty = items[i][1];
+        int beauty = items[i][BEAUTY];
 
         if (maxBeauty < beauty) {
             maxBeauty = beauty;
         }
         else {
-            items[i][1] = maxBeauty;
+            items[i][BEAUTY] = maxBeauty;
         }
     }
 
@@ -33,22 +37,22 @@ int* maximumBeauty(int** items, int itemsSize, int* itemsColSize, int* queries, 
     // answer the queries
     for (int i = 0; i < queriesSize; ++i) {
         // binary search
-        int low = 0, upper = itemsSize - 1;
+        int lower = 0, upper = itemsSize - 1;
 
-        while (low <= upper) {
-            int mid = (low + upper) / 2;
+        while (lower <= upper) {
+            int mid = (lower + upper) / 2;
 
-            if (queries[i] < items[mid][0]) {
+            if (queries[i] < items[mid][PRICE]) {
                 upper = mid - 1;
             }
             else {
-                low = mid + 1;
+                lower = mid + 1;
             }
         }
 
-        ans[i] = (low > 0)
-            ? items[low - 1][1]
-            : 0; // no item exists
+        ans[i] = (upper < 0)
+            ? 0 // no item exists
+            : items[upper][BEAUTY];
     }
 
     *returnSize = queriesSize;

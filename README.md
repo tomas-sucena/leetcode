@@ -216,6 +216,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tomas-sucena/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
@@ -227,6 +228,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0071-simplify-path](https://github.com/tomas-sucena/leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/tomas-sucena/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0165-compare-version-numbers) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/tomas-sucena/leetcode/tree/master/0520-detect-capital) |

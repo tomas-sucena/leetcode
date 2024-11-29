@@ -25,8 +25,8 @@ bool rotateString(char* s, char* goal) {
 
     // verify if goal is a substring
     // of the doubled string
-    for (; *s_; ++s_) {
-        if (match(s_, goal)) {
+    for (int i = 0; i < len_ - len; ++i) {
+        if (match(s_ + i, goal)) {
             return true;
         }
     }

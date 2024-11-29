@@ -232,6 +232,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/tomas-sucena/leetcode/tree/master/0520-detect-capital) |
+| [0812-rotate-string](https://github.com/tomas-sucena/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/tomas-sucena/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tomas-sucena/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -368,4 +369,8 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/tomas-sucena/leetcode/tree/master/0223-rectangle-area) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/tomas-sucena/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

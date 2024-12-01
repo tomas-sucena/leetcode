@@ -94,6 +94,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -126,6 +127,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Simulation
@@ -202,6 +204,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -223,6 +226,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -317,6 +321,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |

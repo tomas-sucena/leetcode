@@ -101,6 +101,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -139,6 +140,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/tomas-sucena/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tomas-sucena/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -227,6 +229,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -244,6 +247,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1197-parsing-a-boolean-expression](https://github.com/tomas-sucena/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tomas-sucena/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2580-circular-sentence](https://github.com/tomas-sucena/leetcode/tree/master/2580-circular-sentence) |

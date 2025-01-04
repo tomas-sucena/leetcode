@@ -102,6 +102,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/tomas-sucena/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -150,6 +151,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0238-product-of-array-except-self](https://github.com/tomas-sucena/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/tomas-sucena/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Math
 |  |
 | ------- |

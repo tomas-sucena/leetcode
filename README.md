@@ -179,6 +179,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomas-sucena/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/tomas-sucena/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
@@ -203,6 +204,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomas-sucena/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
@@ -226,6 +228,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tomas-sucena/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomas-sucena/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |

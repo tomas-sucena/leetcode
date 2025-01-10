@@ -276,10 +276,12 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
+| [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
+| [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
@@ -289,6 +291,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tomas-sucena/leetcode/tree/master/0191-number-of-1-bits) |
+| [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/tomas-sucena/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -407,4 +410,8 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tomas-sucena/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

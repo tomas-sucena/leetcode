@@ -107,6 +107,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tomas-sucena/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -134,6 +135,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/tomas-sucena/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Math
 |  |
 | ------- |
@@ -340,6 +343,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Backtracking
 |  |

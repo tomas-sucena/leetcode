@@ -16,8 +16,8 @@ int maxNumberOfBalloons(char* text) {
     // can be formed
     return min(letters[1],          // 'b'
         min(letters[0],             // 'a' 
-        min(letters['l' % 'a'] / 2, // 'l'
-        min(letters['o' % 'a'] / 2, // 'o'
-        letters['n' % 'a']          // 'n'
+        min(letters['l' - 'a'] / 2, // 'l'
+        min(letters['o' - 'a'] / 2, // 'o'
+        letters['n' - 'a']          // 'n'
     ))));
 }

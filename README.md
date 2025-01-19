@@ -215,6 +215,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/tomas-sucena/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -255,6 +256,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0812-rotate-string](https://github.com/tomas-sucena/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/tomas-sucena/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1297-maximum-number-of-balloons](https://github.com/tomas-sucena/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tomas-sucena/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -325,6 +327,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
+| [1297-maximum-number-of-balloons](https://github.com/tomas-sucena/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |

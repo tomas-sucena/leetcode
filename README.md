@@ -107,6 +107,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -223,6 +224,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -322,6 +324,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Counting
 |  |

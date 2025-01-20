@@ -114,6 +114,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tomas-sucena/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Graph
 |  |
 | ------- |
@@ -292,6 +293,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,6 +328,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
 | ------- |

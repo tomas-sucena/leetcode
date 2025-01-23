@@ -3,7 +3,7 @@ int countServers(int** grid, int gridSize, int* gridColSize) {
     int *colServers = (int *) calloc(n, sizeof(int));
 
     // visit the rows
-    // O(n * m)
+    // O(m * n)
     for (int i = 0; i < gridSize; ++i) {
         int servers = 0;
 
@@ -22,7 +22,7 @@ int countServers(int** grid, int gridSize, int* gridColSize) {
     }
 
     // visit the columns
-    // O(n * m)
+    // O(m * n)
     for (int j = 0; j < n; ++j) {
         // skip unfeasible columns
         if (colServers[j] <= 1) {

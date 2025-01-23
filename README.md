@@ -47,6 +47,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/tomas-sucena/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -93,6 +94,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1027-sum-of-even-numbers-after-queries](https://github.com/tomas-sucena/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/tomas-sucena/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tomas-sucena/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -206,6 +208,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/tomas-sucena/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
@@ -326,6 +329,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -335,6 +339,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [1297-maximum-number-of-balloons](https://github.com/tomas-sucena/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tomas-sucena/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tomas-sucena/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/tomas-sucena/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -406,6 +411,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
+| [1396-count-servers-that-communicate](https://github.com/tomas-sucena/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Geometry
 |  |
 | ------- |

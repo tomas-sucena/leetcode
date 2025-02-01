@@ -115,6 +115,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tomas-sucena/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/tomas-sucena/leetcode/tree/master/3324-split-the-array) |
+| [3429-special-array-i](https://github.com/tomas-sucena/leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Graph

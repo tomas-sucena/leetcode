@@ -118,6 +118,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [3429-special-array-i](https://github.com/tomas-sucena/leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tomas-sucena/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tomas-sucena/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Graph
 |  |
 | ------- |

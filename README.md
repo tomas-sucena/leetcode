@@ -89,6 +89,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/tomas-sucena/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0413-arithmetic-slices](https://github.com/tomas-sucena/leetcode/tree/master/0413-arithmetic-slices) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/tomas-sucena/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -293,6 +294,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/tomas-sucena/leetcode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
@@ -439,4 +441,8 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/tomas-sucena/leetcode/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/tomas-sucena/leetcode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomas-sucena/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/tomas-sucena/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -46,6 +48,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tomas-sucena/leetcode/tree/master/0200-number-of-islands) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -66,6 +69,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0113-path-sum-ii](https://github.com/tomas-sucena/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tomas-sucena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tomas-sucena/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/tomas-sucena/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/tomas-sucena/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |

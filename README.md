@@ -86,6 +86,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tomas-sucena/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomas-sucena/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -304,6 +305,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | ------- |
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/tomas-sucena/leetcode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/tomas-sucena/leetcode/tree/master/0413-arithmetic-slices) |

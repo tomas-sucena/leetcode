@@ -98,6 +98,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0238-product-of-array-except-self](https://github.com/tomas-sucena/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0413-arithmetic-slices](https://github.com/tomas-sucena/leetcode/tree/master/0413-arithmetic-slices) |
+| [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/tomas-sucena/leetcode/tree/master/0859-design-circular-deque) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/tomas-sucena/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -149,6 +150,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/tomas-sucena/leetcode/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tomas-sucena/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -265,6 +267,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0189-rotate-array](https://github.com/tomas-sucena/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -379,6 +382,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
+| [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |

@@ -118,6 +118,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/tomas-sucena/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tomas-sucena/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tomas-sucena/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -270,6 +271,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tomas-sucena/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/tomas-sucena/leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -321,6 +323,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0045-jump-game-ii](https://github.com/tomas-sucena/leetcode/tree/master/0045-jump-game-ii) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tomas-sucena/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/tomas-sucena/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/tomas-sucena/leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Bit Manipulation
@@ -386,6 +389,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/tomas-sucena/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tomas-sucena/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/tomas-sucena/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2728-sum-in-a-matrix](https://github.com/tomas-sucena/leetcode/tree/master/2728-sum-in-a-matrix) |

@@ -189,6 +189,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/tomas-sucena/leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/tomas-sucena/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tomas-sucena/leetcode/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/tomas-sucena/leetcode/tree/master/0441-arranging-coins) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/tomas-sucena/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -337,6 +338,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tomas-sucena/leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/tomas-sucena/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/tomas-sucena/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -439,6 +441,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/tomas-sucena/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tomas-sucena/leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/tomas-sucena/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Search Tree
 |  |

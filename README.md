@@ -188,6 +188,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tomas-sucena/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/tomas-sucena/leetcode/tree/master/0223-rectangle-area) |
+| [0326-power-of-three](https://github.com/tomas-sucena/leetcode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/tomas-sucena/leetcode/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/tomas-sucena/leetcode/tree/master/0441-arranging-coins) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/tomas-sucena/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -437,6 +438,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/tomas-sucena/leetcode/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/tomas-sucena/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Binary Search Tree
 |  |

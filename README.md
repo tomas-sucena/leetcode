@@ -117,6 +117,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [2179-most-beautiful-item-for-each-query](https://github.com/tomas-sucena/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/tomas-sucena/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/tomas-sucena/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tomas-sucena/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2476-check-distances-between-same-letters](https://github.com/tomas-sucena/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tomas-sucena/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tomas-sucena/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -194,6 +195,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0441-arranging-coins](https://github.com/tomas-sucena/leetcode/tree/master/0441-arranging-coins) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/tomas-sucena/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2155-find-missing-observations](https://github.com/tomas-sucena/leetcode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tomas-sucena/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/tomas-sucena/leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tomas-sucena/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tomas-sucena/leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |

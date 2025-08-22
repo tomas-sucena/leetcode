@@ -14,3 +14,21 @@ long long zeroFilledSubarray(int* nums, int numsSize) {
 
     return ans;
 }
+
+/** OPTIMAL SOLUTION
+long long zeroFilledSubarray(int* nums, int numsSize) {
+    long long ans = 0;
+    int zeros = 0;
+
+    for (int i = 0; i < numsSize; ++i) {
+        if (nums[i]) {
+            zeros = 0;
+        }
+        else {
+            ans += ++zeros;
+        }
+    }
+
+    return ans;
+}
+*/

@@ -339,6 +339,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0029-divide-two-integers](https://github.com/tomas-sucena/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tomas-sucena/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/tomas-sucena/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tomas-sucena/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/tomas-sucena/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
@@ -413,6 +414,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tomas-sucena/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/tomas-sucena/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tomas-sucena/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomas-sucena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design

@@ -244,6 +244,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tomas-sucena/leetcode/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/tomas-sucena/leetcode/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/tomas-sucena/leetcode/tree/master/0816-design-hashset) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/tomas-sucena/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -289,6 +290,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0165-compare-version-numbers](https://github.com/tomas-sucena/leetcode/tree/master/0165-compare-version-numbers) |
 | [0299-bulls-and-cows](https://github.com/tomas-sucena/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/tomas-sucena/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/tomas-sucena/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/tomas-sucena/leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/tomas-sucena/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tomas-sucena/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -342,6 +344,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0190-reverse-bits](https://github.com/tomas-sucena/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tomas-sucena/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/tomas-sucena/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/tomas-sucena/leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/tomas-sucena/leetcode/tree/master/0397-integer-replacement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tomas-sucena/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/tomas-sucena/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -394,6 +397,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/tomas-sucena/leetcode/tree/master/0389-find-the-difference) |
 | [0475-heaters](https://github.com/tomas-sucena/leetcode/tree/master/0475-heaters) |
 | [1256-rank-transform-of-an-array](https://github.com/tomas-sucena/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tomas-sucena/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |

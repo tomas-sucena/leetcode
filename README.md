@@ -85,6 +85,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0074-search-a-2d-matrix](https://github.com/tomas-sucena/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tomas-sucena/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tomas-sucena/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tomas-sucena/leetcode/tree/master/0120-triangle) |
@@ -266,6 +267,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 | [0061-rotate-list](https://github.com/tomas-sucena/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/tomas-sucena/leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tomas-sucena/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomas-sucena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
@@ -395,6 +397,7 @@ To visit my LeetCode profile, please click [here](https://leetcode.com/u/sucena/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tomas-sucena/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tomas-sucena/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tomas-sucena/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tomas-sucena/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/tomas-sucena/leetcode/tree/master/0389-find-the-difference) |
